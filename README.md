@@ -10,3 +10,7 @@ pip install -r requirements.txt
 
 python -m kuntavaalit.analyysi
 ```
+
+## License
+
+[The MIT license](LICENSE)
