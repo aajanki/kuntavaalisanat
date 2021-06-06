@@ -1,4 +1,10 @@
-# Kuntavaalit 2021
+# Puolueille ominaiset sanat kuntavaaleissa 2021
+
+Tämä analyysi pyrkii vastaamaan kysymykseen, mitkä sanat esiintyvät usein vain yhden puolueen ehdokkaiden vaalilupauksissa.
+
+[Tulokset](results/kuntavaalilupaukset2021.pdf)
+
+## Analyysin suorittaminen
 
 ```
 mkdir -p data/vaalikone
